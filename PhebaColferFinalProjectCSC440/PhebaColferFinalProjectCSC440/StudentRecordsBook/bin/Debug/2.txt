@@ -1,0 +1,9 @@
+Name is: John Phillips
+ID is: 2
+ID  PREFIX  NUM  SEMESTER  YEAR  CREDITS  GRADE
+
+2 CSC 541 Spring 2023 3 C
+
+1 CSC 191 Spring 2021 3 A
+
+GPA is: 9
